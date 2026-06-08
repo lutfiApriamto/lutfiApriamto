@@ -1,80 +1,132 @@
-# hey, i'm lutfi 👋
+<div align="center">
 
-frontend-leaning fullstack engineer from Depok, Indonesia. i graduated from Gunadarma University (CS, 3.71 GPA) and i've been building web apps seriously since 2024 — from UMKM e-commerce platforms to manufacturing execution systems used in production.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,050505,C8FF00&height=140&section=header&reversal=false" width="100%"/>
 
-right now i'm interning at **ParagonCorp** as a frontend engineer, migrating legacy manufacturing features into a modern React stack. before that, i was freelancing, mentoring 60–90 students per semester as a lab assistant, and shipping DIKTI-funded apps that ended up getting **HKI (intellectual property) certification** — twice.
+<br/>
 
-i care about code quality, clean UI, and building things that actually get used.
+```
+  ██╗     ██╗   ██╗████████╗███████╗██╗
+  ██║     ██║   ██║╚══██╔══╝██╔════╝██║
+  ██║     ██║   ██║   ██║   █████╗  ██║
+  ██║     ██║   ██║   ██║   ██╔══╝  ██║
+  ███████╗╚██████╔╝   ██║   ██║     ██║
+  ╚══════╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝
+```
 
----
+### Muhammad Lutfi Apriamto
+**Frontend Engineer · Fullstack Developer · UI Enthusiast**
 
-### what i'm doing now
+`Bekasi, Indonesia 🇮🇩` &nbsp;·&nbsp; `Open to Work ✦`
 
-- 🏗️ **@ParagonCorp** — building & refactoring modules on `fro-mes-frontend-js` (React, Zustand, Chakra UI, TanStack)
-- 🌐 **personal portfolio** — wrapping up my own site with React 19, Tailwind v4, GSAP ScrollTrigger & Lenis
-- 👀 **open to** — full-time frontend/fullstack roles or freelance projects. feel free to reach out.
+<br/>
 
----
+[![Email](https://img.shields.io/badge/lutfiapriamto12@gmail.com-050505?style=flat-square&logo=gmail&logoColor=C8FF00)](mailto:lutfiapriamto12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=C8FF00)](https://linkedin.com/in/lutfiapriamto)
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=flat-square&logo=github&logoColor=C8FF00)](https://github.com/lutfiApriamto)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=flat-square&logo=firefox&logoColor=C8FF00)](https://lutfiapriamto.dev)
 
-### things i work with
+</div>
 
-**frontend** — React, Vite, Next.js, Tailwind CSS, Chakra UI, Framer Motion, GSAP  
-**state & data** — Zustand, TanStack Query, React Hook Form  
-**backend** — Node.js, Express.js, Laravel, REST APIs  
-**database** — MongoDB, MySQL  
-**tools** — Git, Docker, Figma, Sanity CMS  
-**languages** — JavaScript (main), PHP, Java, Go, Python (enough to be dangerous)
-
----
-
-### stuff i've shipped
-
-**FRO MES Redevelopment** `React · Zustand · TanStack · Chakra UI`  
-Migrated core manufacturing features at ParagonCorp from a legacy system to a modern scalable platform. Built bulk processing flows, real-time status tracking, and data visualization modules. Also did a full auth security migration — localStorage tokens → in-memory access tokens + HttpOnly cookie refresh tokens.
-
-**Fish E-commerce Platform** `MERN Stack · Vite · Tailwind`  
-Full-stack e-commerce for local ornamental fish businesses in Depok. Catalog, cart, transaction management, fully responsive. Part of a DIKTI community service program — ended up getting HKI certification.
-
-**Bank Sampah Digitalization** `MERN Stack · Vite · Tailwind`  
-Waste management system for Rawa Panjang village. Point-based exchange transactions, real-time tracking, monthly Excel exports. 10+ active branches. Also HKI certified.
-
-**Recruitment Management System** `React · Node · Express · MongoDB`  
-Scoped and built a hiring platform for an outsourcing company (~1000+ employees). Full pre-dev documentation: MOM, proposal, RAB, contract, PRD with 41 user stories and 50+ API endpoints. Client went quiet — i kept building.
-
-**Assistant Assessment Web App** `MERN Stack · Vite`  
-Internal tool for Gunadarma's lab assistant recruitment. Digitized the entire scoring and assessment workflow for new candidates. Built and used during my time as Field Coordinator for the recruitment process.
-
-**GAS Peduli Gizi** `MERN Stack · Vite`  
-Distribution monitoring system tracking resource delivery across 10 school locations. Accelerated reporting for a DIKTI nutrition program.
-
-**LutfiScript** `MERN Stack · MongoDB Atlas`  
-E-learning platform for JavaScript education. Separate admin and user portals, video modules, interactive quizzes, email-based auth reset. Built this one just because i wanted to.
+<br/>
 
 ---
 
-### stats
+## ▸ about
 
-<img src="https://github-readme-stats.vercel.app/api?username=lutfiApriamto&show_icons=true&bg_color=0d1117&title_color=C8FF00&icon_color=C8FF00&text_color=c9d1d9&border_color=30363d&border_radius=8&count_private=true&hide=prs" height="150"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfiApriamto&background=0d1117&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=c9d1d9&dates=666&border=30363d&border_radius=8" height="150"/>
+CS graduate from Gunadarma University (GPA 3.71) who's been building web apps since 2024 — ranging from UMKM platforms and government-funded programs to production-grade manufacturing systems. currently wrapping up a frontend internship at **ParagonCorp**, where i've been migrating legacy MES features into a modern React stack.
 
----
+i lean frontend, but i'm comfortable end-to-end. i care about the details — clean architecture, smooth interactions, and code the next developer won't hate.
 
-### certifications (the real ones)
+two of the apps i've built got **HKI (intellectual property) certification** from DIKTI SAINTEK. i think that's pretty cool.
 
-- 🪪 **Okupasi Junior Web Programming** — BNSP certified, 2025
-- 🪪 **Junior Web Programming** — BNSP certified via BPPTIK Cikarang, 2023
-- 📜 **Frontend Developer** — SMKDEV Bootcamp Scholarship, 2023
-- 📜 **Software Development** — 2023
+<br/>
 
 ---
 
-### reach me
+## ▸ experience
 
-email → lutfiapriamto12@gmail.com  
-linkedin → [linkedin.com/in/lutfiapriamto](https://linkedin.com/in/lutfiapriamto)  
-portfolio → coming soon
+**Software Engineer (Front-End) Intern** &nbsp;·&nbsp; *ParagonCorp* &nbsp;·&nbsp; Nov 2025 – May 2026
+> migrating core manufacturing features from legacy to modern React stack · building bulk processing & real-time status tracking modules · refactoring monolithic code into modular components · code reviews, Git workflows, senior collaboration
+
+**Full Stack Engineer** &nbsp;·&nbsp; *Community Service Institution, Gunadarma* &nbsp;·&nbsp; Aug – Nov 2025
+> delivered 2 full-stack apps (e-commerce + waste management) for community empowerment · contributed to 30% increase in sales reach for local fish UMKM · built Bank Sampah system used by 10+ branches in Rawa Panjang village
+
+**Full Stack Engineer** &nbsp;·&nbsp; *Digital of Thinking* &nbsp;·&nbsp; Apr 2024 – Aug 2025
+> 8+ company profile websites · property transaction platform · full-stack distribution monitoring system for 10 schools
+
+**Laboratory Assistant** &nbsp;·&nbsp; *Gunadarma Computerization Development Institute* &nbsp;·&nbsp; Sep 2024 – Nov 2025
+> instructed 60–90 students/semester in Java, Go, PHP · developed digital learning materials · led 8-person team as Field Coordinator for assistant recruitment
+
+<br/>
 
 ---
 
-<sub>i've shipped apps used by villages, fish farmers, schools, and a cosmetics manufacturer. still learning every day.</sub>
+## ▸ tech
+
+```js
+const stack = {
+  frontend  : ["React", "Next.js", "Vite", "Tailwind CSS", "Chakra UI", "Framer Motion", "GSAP"],
+  state     : ["Zustand", "TanStack Query", "React Hook Form"],
+  backend   : ["Node.js", "Express.js", "Laravel"],
+  database  : ["MongoDB", "MySQL"],
+  tools     : ["Git", "Docker", "Figma", "Sanity CMS"],
+  languages : ["JavaScript", "PHP", "Java", "Go", "Python"],
+}
+```
+
+<br/>
+
+---
+
+## ▸ selected projects
+
+| project | stack | highlight |
+|---|---|---|
+| **FRO MES Redevelopment** | React · Zustand · TanStack · Chakra UI | bulk processing, real-time tracking, auth migration at ParagonCorp |
+| **Fish E-commerce Platform** | MERN · Vite · Tailwind | built for local ornamental fish farmers · **HKI certified** |
+| **Bank Sampah Digitalization** | MERN · Vite · Tailwind | waste management system, 10+ branches, Excel export · **HKI certified** |
+| **Recruitment Management System** | React · Node · Express · MongoDB | 41 user stories, 50+ API endpoints, full PRD & contract |
+| **Assistant Assessment Web App** | MERN · Vite | digitized scoring workflow for Gunadarma lab assistant recruitment |
+| **GAS Peduli Gizi** | MERN · Vite | distribution monitoring across 10 schools for DIKTI nutrition program |
+| **LutfiScript** | MERN · MongoDB Atlas | e-learning platform for JS — admin portal, video modules, quizzes |
+
+<br/>
+
+---
+
+## ▸ stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lutfiApriamto&show_icons=true&bg_color=050505&title_color=C8FF00&icon_color=C8FF00&text_color=ffffff&border_color=ffffff15&border_radius=10&count_private=true&hide=prs&hide_border=false" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfiApriamto&background=050505&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=ffffff&dates=666666&border=ffffff15&border_radius=10" height="155"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lutfiApriamto&bg_color=050505&color=C8FF00&line=C8FF00&point=ffffff&area=true&area_color=C8FF00&border_color=ffffff15&radius=8" width="92%"/>
+
+</div>
+
+<br/>
+
+---
+
+## ▸ certifications
+
+- **Okupasi Junior Web Programming** — BNSP · 2025
+- **Junior Web Programming** — BNSP via BPPTIK Cikarang · 2023
+- **Frontend Developer** — SMKDEV Bootcamp Scholarship · 2023
+- **Software Development** — 2023
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>i've shipped apps used by villages, fish farmers, schools, and a cosmetics manufacturer.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,050505,C8FF00&height=100&section=footer&reversal=true" width="100%"/>
+
+</div>
