@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,050505,C8FF00&height=140&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D0D0D,1a1a2e,C8FF00&height=140&section=header&reversal=false" width="100%"/>
 
 <br/>
 
-```
-  ██╗     ██╗   ██╗████████╗███████╗██╗
-  ██║     ██║   ██║╚══██╔══╝██╔════╝██║
-  ██║     ██║   ██║   ██║   █████╗  ██║
-  ██║     ██║   ██║   ██║   ██╔══╝  ██║
-  ███████╗╚██████╔╝   ██║   ██║     ██║
-  ╚══════╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝
-```
+<a href="https://github.com/lutfiApriamto">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=C8FF00&center=true&vCenter=true&width=500&lines=Muhammad+Lutfi+Apriamto" alt="Typing SVG"/>
+</a>
 
-### Muhammad Lutfi Apriamto
 **Frontend Engineer · Fullstack Developer · UI Enthusiast**
 
 `Bekasi, Indonesia 🇮🇩` &nbsp;·&nbsp; `Open to Work ✦`
@@ -33,29 +27,7 @@
 
 ## ▸ about
 
-CS graduate from Gunadarma University (GPA 3.71) who's been building web apps since 2024 — ranging from UMKM platforms and government-funded programs to production-grade manufacturing systems. currently wrapping up a frontend internship at **ParagonCorp**, where i've been migrating legacy MES features into a modern React stack.
-
-i lean frontend, but i'm comfortable end-to-end. i care about the details — clean architecture, smooth interactions, and code the next developer won't hate.
-
-two of the apps i've built got **HKI (intellectual property) certification** from DIKTI SAINTEK. i think that's pretty cool.
-
-<br/>
-
----
-
-## ▸ experience
-
-**Software Engineer (Front-End) Intern** &nbsp;·&nbsp; *ParagonCorp* &nbsp;·&nbsp; Nov 2025 – May 2026
-> migrating core manufacturing features from legacy to modern React stack · building bulk processing & real-time status tracking modules · refactoring monolithic code into modular components · code reviews, Git workflows, senior collaboration
-
-**Full Stack Engineer** &nbsp;·&nbsp; *Community Service Institution, Gunadarma* &nbsp;·&nbsp; Aug – Nov 2025
-> delivered 2 full-stack apps (e-commerce + waste management) for community empowerment · contributed to 30% increase in sales reach for local fish UMKM · built Bank Sampah system used by 10+ branches in Rawa Panjang village
-
-**Full Stack Engineer** &nbsp;·&nbsp; *Digital of Thinking* &nbsp;·&nbsp; Apr 2024 – Aug 2025
-> 8+ company profile websites · property transaction platform · full-stack distribution monitoring system for 10 schools
-
-**Laboratory Assistant** &nbsp;·&nbsp; *Gunadarma Computerization Development Institute* &nbsp;·&nbsp; Sep 2024 – Nov 2025
-> instructed 60–90 students/semester in Java, Go, PHP · developed digital learning materials · led 8-person team as Field Coordinator for assistant recruitment
+Computer Science graduate from Gunadarma University (GPA 3.71) who's been building web apps since 2024 ranging from UMKM platforms and government-funded programs to production-grade manufacturing systems. currently wrapping up a frontend internship at **ParagonCorp**, where i've been migrating legacy MES features into a modern React stack.
 
 <br/>
 
@@ -63,70 +35,62 @@ two of the apps i've built got **HKI (intellectual property) certification** fro
 
 ## ▸ tech
 
-```js
-const stack = {
-  frontend  : ["React", "Next.js", "Vite", "Tailwind CSS", "Chakra UI", "Framer Motion", "GSAP"],
-  state     : ["Zustand", "TanStack Query", "React Hook Form"],
-  backend   : ["Node.js", "Express.js", "Laravel"],
-  database  : ["MongoDB", "MySQL"],
-  tools     : ["Git", "Docker", "Figma", "Sanity CMS"],
-  languages : ["JavaScript", "PHP", "Java", "Go", "Python"],
-}
-```
-
-<br/>
-
----
-
-## ▸ selected projects
-
-| project | stack | highlight |
-|---|---|---|
-| **FRO MES Redevelopment** | React · Zustand · TanStack · Chakra UI | bulk processing, real-time tracking, auth migration at ParagonCorp |
-| **Fish E-commerce Platform** | MERN · Vite · Tailwind | built for local ornamental fish farmers · **HKI certified** |
-| **Bank Sampah Digitalization** | MERN · Vite · Tailwind | waste management system, 10+ branches, Excel export · **HKI certified** |
-| **Recruitment Management System** | React · Node · Express · MongoDB | 41 user stories, 50+ API endpoints, full PRD & contract |
-| **Assistant Assessment Web App** | MERN · Vite | digitized scoring workflow for Gunadarma lab assistant recruitment |
-| **GAS Peduli Gizi** | MERN · Vite | distribution monitoring across 10 schools for DIKTI nutrition program |
-| **LutfiScript** | MERN · MongoDB Atlas | e-learning platform for JS — admin portal, video modules, quizzes |
-
-<br/>
-
----
-
-## ▸ stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lutfiApriamto&show_icons=true&bg_color=050505&title_color=C8FF00&icon_color=C8FF00&text_color=ffffff&border_color=ffffff15&border_radius=10&count_private=true&hide=prs&hide_border=false" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfiApriamto&background=050505&ring=C8FF00&fire=C8FF00&currStreakLabel=C8FF00&sideLabels=ffffff&dates=666666&border=ffffff15&border_radius=10" height="155"/>
+### 🎨 &nbsp; <span>Frontend</span>
 
-<br/><br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D0D0D?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0D0D0D?style=for-the-badge&logo=greensock&logoColor=88CE02)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lutfiApriamto&bg_color=050505&color=C8FF00&line=C8FF00&point=ffffff&area=true&area_color=C8FF00&border_color=ffffff15&radius=8" width="92%"/>
+<br/>
+
+### ⚡ &nbsp; <span>State & Data</span>
+
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=C8FF00)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+<br/>
+
+### 🛠️ &nbsp; <span>Backend</span>
+
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+<br/>
+
+### 🗄️ &nbsp; <span>Database</span>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00758F)
+
+<br/>
+
+### 🔧 &nbsp; <span>Tools & Others</span>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+
+<br/>
+
+### 💬 &nbsp; <span>Languages</span>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 <br/>
 
----
-
-## ▸ certifications
-
-- **Okupasi Junior Web Programming** — BNSP · 2025
-- **Junior Web Programming** — BNSP via BPPTIK Cikarang · 2023
-- **Frontend Developer** — SMKDEV Bootcamp Scholarship · 2023
-- **Software Development** — 2023
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>i've shipped apps used by villages, fish farmers, schools, and a cosmetics manufacturer.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,050505,C8FF00&height=100&section=footer&reversal=true" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,C8FF00,1a1a2e,0D0D0D&height=100&section=footer&reversal=true" width="100%"/>
