@@ -47,7 +47,6 @@ Computer Science graduate from Gunadarma University (GPA 3.71) who's been buildi
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D0D0D?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-0D0D0D?style=for-the-badge&logo=greensock&logoColor=88CE02)
 
-<br/>
 
 ### ⚡ &nbsp; <span>State & Data</span>
 
@@ -89,4 +88,4 @@ Computer Science graduate from Gunadarma University (GPA 3.71) who's been buildi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,C8FF00,1a1a2e,0D0D0D&height=100&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D0D0D,1a1a2e,C8FF00&height=140&section=header&reversal=true" width="100%"/>
