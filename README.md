@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D0D0D,1a1a2e,C8FF00&height=140&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,12,2&height=140&section=header&reversal=false&fontColor=fff" width="100%"/>
 
 <br/>
 
@@ -37,7 +37,7 @@ Computer Science graduate from Gunadarma University (GPA 3.71) who's been buildi
 
 <div align="center">
 
-### 🎨 &nbsp; <span>Frontend</span>
+### 🎨 &nbsp; Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -48,27 +48,27 @@ Computer Science graduate from Gunadarma University (GPA 3.71) who's been buildi
 ![GSAP](https://img.shields.io/badge/GSAP-0D0D0D?style=for-the-badge&logo=greensock&logoColor=88CE02)
 
 
-### ⚡ &nbsp; <span>State & Data</span>
+### ⚡ &nbsp; State & Data
 
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=C8FF00)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 
-### 🛠️ &nbsp; <span>Backend</span>
+### 🛠️ &nbsp; Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-### 🗄️ &nbsp; <span>Database</span>
+### 🗄️ &nbsp; Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00758F)
 
 
-### 🔧 &nbsp; <span>Tools & Others</span>
+### 🔧 &nbsp; Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,7 +76,7 @@ Computer Science graduate from Gunadarma University (GPA 3.71) who's been buildi
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
 
-### 💬 &nbsp; <span>Languages</span>
+### 💬 &nbsp; Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -88,4 +88,4 @@ Computer Science graduate from Gunadarma University (GPA 3.71) who's been buildi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D0D0D,1a1a2e,C8FF00&height=140&section=header&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,30&height=100&section=footer&reversal=false" width="100%"/>
