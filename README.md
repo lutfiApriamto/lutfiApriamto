@@ -21,9 +21,9 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/lutfiapriamto12@gmail.com-050505?style=flat-square&logo=gmail&logoColor=C8FF00)](mailto:lutfiapriamto12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=C8FF00)](https://linkedin.com/in/lutfiapriamto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=C8FF00)](https://www.linkedin.com/in/lutfi-apriamto-3a9383312/)
 [![GitHub](https://img.shields.io/badge/GitHub-050505?style=flat-square&logo=github&logoColor=C8FF00)](https://github.com/lutfiApriamto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=flat-square&logo=firefox&logoColor=C8FF00)](https://lutfiapriamto.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=flat-square&logo=firefox&logoColor=C8FF00)](https://lutfi-portfolio-two.vercel.app/)
 
 </div>
 
